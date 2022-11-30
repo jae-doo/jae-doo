@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=B1B2FF&height=300&section=header&text=Jae%20Doo)
+
+<h3 align="center">🌊 Tech Stack 🌊</h3>
+
+<img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=white"/>
 
 <!--
 **fosong98/fosong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
