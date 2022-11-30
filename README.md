@@ -2,7 +2,8 @@
 
 <h3 align="center">🌊 Tech Stack 🌊</h3>
 
-<img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/java-red?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 <!--
 **fosong98/fosong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
