@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B1B2FF&height=300&section=header&text=Jae%20Doo)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B1B2FF&height=100&section=header&text=Jae%20Doo&size=10)
 
   <h3 align="center">I'm getting used to</h3>
 
