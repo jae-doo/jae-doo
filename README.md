@@ -1,21 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B1B2FF&height=300&section=header&text=Jae%20Doo)
 
-<h3 align="center">🌊 Tech Stack 🌊</h3>
+  <h3 align="center">I'm getting used to</h3>
 
-<p align="center"><img src="https://img.shields.io/badge/java-red?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 
-<!--
-**fosong98/fosong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JaeDoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fosong98&show_icons=true&theme=transparent)
