@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
 
-![JaeDoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fosong98&show_icons=true&theme=transparent)
+![JaeDoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-doo&show_icons=true&theme=transparent)
