@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B1B2FF&height=100&section=header&text=%ec%86%a1%ec%9e%ac%ec%9b%90+%7c+Software+Engineer&size=10&&fontSize=40&&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=B1B2FF&height=150&section=header&text=%ec%86%a1%ec%9e%ac%ec%9b%90+%7c+Software+Engineer&fontSize=40&&animation=fadeIn&fontAlign=70)
 
+### 💁🏻‍♂️ Brief
 
+안녕하세요👋 백엔드 개발자 송재원입니다.
 
 ### 🚀 Interested In
 
